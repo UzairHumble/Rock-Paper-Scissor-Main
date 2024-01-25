@@ -34,7 +34,7 @@ If you want to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/UzairHumble](2024) file for details.
+This project is licensed under the MIT License - see the [https://github.com/UzairHumble] [https://game-by-uzair.netlify.app/](2024) file for details.
 
 ## Acknowledgments
 
